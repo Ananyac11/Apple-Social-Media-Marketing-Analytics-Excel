@@ -1,4 +1,5 @@
 📊 Apple Social Media Marketing Analytics using Microsoft Excel
+
 📌 Project Overview
 
 This project analyzes Apple's social media marketing performance across multiple platforms using Microsoft Excel. The objective is to transform raw marketing data into meaningful business insights through data cleaning, calculated metrics, Pivot Tables, Pivot Charts, and dashboard-style analysis.
